@@ -240,7 +240,7 @@ body.dark {
 
             background: url(../img/icons/arrow.svg) 67px no-repeat;
 
-            transition: margin .5s;
+            transition: translate .5s;
             &:hover {
                 transform: translate(5px, 0px);
             }
