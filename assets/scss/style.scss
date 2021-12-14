@@ -242,7 +242,7 @@ body.dark {
 
             transition: margin .5s;
             &:hover {
-                margin: 0px 0px 0px 4px;
+                transform: translate(5px, 0px);
             }
         }
     }
